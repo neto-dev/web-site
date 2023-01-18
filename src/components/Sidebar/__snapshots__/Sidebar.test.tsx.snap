@@ -1,4 +1,4 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+x// Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Sidebar renders correctly 1`] = `
 <div>
@@ -12,7 +12,7 @@ exports[`Sidebar renders correctly 1`] = `
           <a
             href="/"
           >
-            John Doe
+            Ernesto Vargas
           </a>
         </h1>
       </div>
