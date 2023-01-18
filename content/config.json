@@ -1,0 +1,38 @@
+{
+  "title": "Blog by Ernesto Vargas",
+  "url": "https://netov.dev",
+  "subtitle": "Hello. I'm Ernesto, I sincerely prefer to be called Neto. I'm a multidisciplinary person. Most of my time is spent managing teams, interacting with clients, managing projects, developing, and enjoying my family.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 8,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Ernesto Vargas",
+    "photo": "/photo.png",
+    "bio": "Hello. I'm Ernesto, I sincerely prefer to be called Neto. I'm a multidisciplinary person. Most of my time is spent managing teams, interacting with clients, managing projects, developing, and enjoying my family.",
+    "contacts": {
+      "email": "hello@netov.dev",
+      "github": "neto-dev",
+      "telegram": "https://t.me/netodev",
+      "twitter": "netovdev",
+      "linkedin": "netodev",
+      "instagram": "netovvargas",
+      "youtube": "https://www.youtube.com/channel/UCv3Zk4B7s-Oet0r0OMjT7nQ"
+    }
+  }
+}
