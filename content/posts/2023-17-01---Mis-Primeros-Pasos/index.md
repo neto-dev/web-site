@@ -1,5 +1,5 @@
 ---
-title: Mis Primeros Pasos
+title: Instalación de ruby en Mac M1 y M2
 date: "2023-01-17T21:06:32.169Z"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Development"
   - "Biography"
   - "Web Development"
-description: "Es difícil empezar, y es aun más difícil con un hijo en camino, 17 años, estudiante y sin un empleo. Fue duro, más no imposible. Te cuento un poco de mi trayectoria y el como llegue de ser un estudiante de preparatoria a convertirme en el lider técnico de una empresa de software."
+description: "Como instalar ..."
 socialImage: "./media/42-line-bible.jpg"
 ---
 
@@ -18,7 +18,7 @@ socialImage: "./media/42-line-bible.jpg"
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
-Es difícil empezar, y es aun más difícil con un hijo en camino, 17 años, estudiante y sin un empleo. Fue duro, más no imposible. Te cuento un poco de mi trayectoria y el como llegue de ser un estudiante de preparatoria a convertirme en el lider técnico de una empresa de software."
+<!-- Es difícil empezar, y es aun más difícil con un hijo en camino, 17 años, estudiante y sin un empleo. Fue duro, más no imposible. Te cuento un poco de mi trayectoria y el como llegue de ser un estudiante de preparatoria a convertirme en el lider técnico de una empresa de software." -->
 
 The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
 
