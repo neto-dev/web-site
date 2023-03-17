@@ -11,7 +11,7 @@ tags:
   - "Líder"
   - "Software"
 description: "En este artículo compartiré con ustedes mi experiencia personal sobre el camino que he recorrido para convertirme en líder, a pesar de enfrentar desafíos desde mi infancia como el bajo rendimiento académico en la escuela y los problemas económicos familiares. Mi objetivo es inspirar a aquellos que puedan estar pasando por situaciones similares y demostrar que es posible superar obstáculos y alcanzar el éxito en cualquier ámbito de la vida."
-socialImage: "./media/m2.jpg"
+socialImage: "./media/photo.png"
 ---
 
 A lo largo de mi vida, he tenido que luchar contra todo tipo de obstáculos. Nací en una familia de bajos recursos y desde muy joven aprendí el valor del trabajo duro y la perseverancia.
