@@ -31,7 +31,7 @@ Cuando tenía 16 años, mi vida dio otro giro importante. Mi novia y yo quedamos
 A pesar de las complicaciones, nunca dejé de lado mi pasión por el software. Comencé a estudiar por mi cuenta, a leer libros y a hacer cursos en línea. Aprendí todo lo que pude y finalmente conseguí un trabajo en una empresa de software. Fue ahí donde empecé a crecer profesionalmente.
 
 Poco a poco, fui avanzando en mi carrera y asumiendo mayores responsabilidades. Me dieron la oportunidad de liderar proyectos y equipos, y finalmente me convertí en líder técnico de la empresa.
-A veces, no soy consciente de todo lo que he logrado. Pero cuando miro hacia atrás y veo todo lo que he pasado, me doy cuenta de que he logrado mucho. A pesar de las dificultades, tengo mi propia casa, mi propio carro y una familia que nunca le falta el techo ni la comida. Aún me falta mucho por aprender, mucho por crecer, pero de algo estoy seguro, si pude una vez pude, mil veces más podré lograr lo que me propongo.
+A veces, no soy consciente de todo lo que he logrado. Pero cuando miro hacia atrás y veo todo lo que he pasado, me doy cuenta de que he logrado mucho. A pesar de las dificultades, tengo mi propia casa, mi propio carro y una familia que nunca le falta el techo ni la comida. Aún me falta mucho por aprender, mucho por crecer, pero de algo estoy seguro, si pude una vez, mil veces más podré lograr lo que me propongo.
 
 Hoy en día, miro hacia atrás y me doy cuenta de cuánto he logrado. Tengo una carrera exitosa y una familia hermosa. Nunca imaginé que podría llegar tan lejos, pero lo hice. Si algo he aprendido en mi camino hacia el éxito, es que nunca debes subestimarte a ti mismo. Con pasión, determinación y trabajo duro, puedes lograr cualquier cosa que te propongas.
 
